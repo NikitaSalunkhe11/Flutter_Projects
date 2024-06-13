@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467741703031",
+    "project_id": "nikita-d583d",
+    "storage_bucket": "nikita-d583d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467741703031:android:58d5aa7ddf84bc2f8d7f72",
+        "android_client_info": {
+          "package_name": "com.example.dummy_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfIKE2HnxbFuvzjy3P-JhmD7lFijPTTEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
